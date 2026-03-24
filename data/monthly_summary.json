@@ -1,0 +1,62 @@
+[
+  {
+    "month": "Jan",
+    "customers": 6,
+    "retention": 66.7,
+    "sla": 66.7,
+    "low_risk": 3,
+    "medium_risk": 1,
+    "high_risk": 2,
+    "total_rev": 6150
+  },
+  {
+    "month": "Feb",
+    "customers": 6,
+    "retention": 66.7,
+    "sla": 66.7,
+    "low_risk": 3,
+    "medium_risk": 1,
+    "high_risk": 2,
+    "total_rev": 5850
+  },
+  {
+    "month": "Mar",
+    "customers": 6,
+    "retention": 66.7,
+    "sla": 66.7,
+    "low_risk": 3,
+    "medium_risk": 1,
+    "high_risk": 2,
+    "total_rev": 6530
+  },
+  {
+    "month": "Apr",
+    "customers": 6,
+    "retention": 66.7,
+    "sla": 66.7,
+    "low_risk": 2,
+    "medium_risk": 2,
+    "high_risk": 2,
+    "total_rev": 6030
+  },
+  {
+    "month": "May",
+    "customers": 6,
+    "retention": 66.7,
+    "sla": 66.7,
+    "low_risk": 3,
+    "medium_risk": 1,
+    "high_risk": 2,
+    "total_rev": 6340
+  },
+  {
+    "month": "Jun",
+    "customers": 6,
+    "retention": 66.7,
+    "sla": 83.3,
+    "low_risk": 3,
+    "medium_risk": 2,
+    "high_risk": 1,
+    "total_rev": 6900
+  }
+]
