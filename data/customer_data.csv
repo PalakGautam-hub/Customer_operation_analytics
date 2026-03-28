@@ -1,0 +1,7 @@
+month,retention_rate,low_risk,medium_risk,high_risk,sla_met,sla_missed
+Jan,78,120,60,25,92,8
+Feb,80,110,55,20,90,10
+Mar,82,100,52,18,91,9
+Apr,85,95,48,15,93,7
+May,88,88,42,12,94,6
+Jun,90,80,35,10,92,8
